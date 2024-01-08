@@ -5,22 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matavila&color=yellow" alt="Profile views" /> </p>
 
-⚒️ I'm currently working as a intern at Gerdau Ouro Branco. <br>
+⚒️ I'm currently working as a intern at AMG. <br>
 📚 I'm studying Metallurgical engineer at Federal University of Ouro Preto. <br>
-📚 I'm also studying front-end at rocketseat. <br>
+📚 I'm also studying python, SQL and Power BI at DIO. <br>
 📬 You can reach me with matheusavila1006@gmail.com <br>
-💬 You can ask me anything about biomass, coke, coal properties, steel Industry. <br>
 🛑 I'm a lover about learning something new, so i and up learning fast. <br>
 
 ⚡Function (fact) { 
  > I ❤️ 🎮  <br>
  > I ❤️ 🤖  <br>
-
+}
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54);
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/matheus-avilla/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-matheus_avila-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/math_production" target="_blank">
+<a href="https://www.instagram.com/mathe.avilla/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheus_avila-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
